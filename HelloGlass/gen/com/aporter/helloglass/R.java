@@ -24,7 +24,6 @@ public final class R {
     public static final class drawable {
         public static final int dog_cat_waving=0x7f020000;
         public static final int goldy=0x7f020001;
-        public static final int tcbear=0x7f020002;
     }
     public static final class id {
         public static final int action_settings=0x7f090001;
