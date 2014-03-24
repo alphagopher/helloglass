@@ -1,0 +1,20 @@
+C:\Users\Andrew.Porter\Workspace\HelloGlass\bin\MainActivity.ap_ \
+ : C:\Users\Andrew.Porter\Workspace\HelloGlass\res\drawable-hdpi\ic_launcher.png \
+C:\Users\Andrew.Porter\Workspace\HelloGlass\res\drawable-mdpi\ic_launcher.png \
+C:\Users\Andrew.Porter\Workspace\HelloGlass\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\Andrew.Porter\Workspace\HelloGlass\res\drawable-xxhdpi\ic_launcher.png \
+C:\Users\Andrew.Porter\Workspace\HelloGlass\res\layout\activity_main.xml \
+C:\Users\Andrew.Porter\Workspace\HelloGlass\res\layout\fragment_main.xml \
+C:\Users\Andrew.Porter\Workspace\HelloGlass\res\menu\main.xml \
+C:\Users\Andrew.Porter\Workspace\HelloGlass\res\values\dimens.xml \
+C:\Users\Andrew.Porter\Workspace\HelloGlass\res\values\strings.xml \
+C:\Users\Andrew.Porter\Workspace\HelloGlass\res\values\styles.xml \
+C:\Users\Andrew.Porter\Workspace\HelloGlass\res\values-v11\styles.xml \
+C:\Users\Andrew.Porter\Workspace\HelloGlass\res\values-v14\styles.xml \
+C:\Users\Andrew.Porter\Workspace\HelloGlass\res\values-w820dp\dimens.xml \
+C:\Users\Andrew.Porter\Workspace\HelloGlass\res\xml\voice_trigger_start.xml \
+C:\Users\Andrew.Porter\Workspace\HelloGlass\bin\res\drawable-hdpi\ic_launcher.png \
+C:\Users\Andrew.Porter\Workspace\HelloGlass\bin\res\drawable-mdpi\ic_launcher.png \
+C:\Users\Andrew.Porter\Workspace\HelloGlass\bin\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\Andrew.Porter\Workspace\HelloGlass\bin\res\drawable-xxhdpi\ic_launcher.png \
+C:\Users\Andrew.Porter\Workspace\HelloGlass\bin\AndroidManifest.xml \

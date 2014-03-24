@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:27
+-keep class com.aporter.helloglass.HelloGlassService { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class com.aporter.helloglass.MainActivity { <init>(...); }
+
