@@ -12,9 +12,18 @@
         -->
     </style>
 
-    <!-- Application theme. -->
+    <!-- Application theme. <style name="AppTheme" parent="AppBaseTheme"> -->
     <style name="AppTheme" parent="AppBaseTheme">
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
+    
+    <!-- Stole this theme from the Google Stopwatch example in order to get the header to disappear on the Card -->
+    <style name="MenuTheme" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+    
 
 </resources>
