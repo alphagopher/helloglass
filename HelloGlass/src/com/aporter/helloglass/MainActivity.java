@@ -1,5 +1,8 @@
 package com.aporter.helloglass;
 
+
+import android.accounts.AccountManager;
+import android.accounts.Account;
 import android.app.Activity;
 import android.os.Bundle;
 import android.util.Log;
@@ -17,8 +20,10 @@ public class MainActivity extends Activity {
 		
 		try {
 			
+			Account[] accounts = AccountManager.get(this).getAccounts();
+			
 			Card card = new Card(this);
-			card.setText(R.string.text_main);
+			card.setText("Hello, " + accounts[0].name);
 		    card.setFootnote(R.string.text_footer);
 		    
 			setContentView(card.toView());
