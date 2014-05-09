@@ -21,7 +21,7 @@ public class MainActivity extends Activity {
 			card.setText(R.string.text_main);
 		    card.setFootnote(R.string.text_footer);
 		    
-			setContentView(card.toView());
+			setContentView(card.getView());
 
 		} catch (Exception e) {
 			
